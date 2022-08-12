@@ -17,7 +17,7 @@ RUN apt update -y \
     dnsutils \
     ftp \
     git \
-    golang-go \
+    golang-1.17-go \
     iproute2 \
     iputils-ping \
     jq \
